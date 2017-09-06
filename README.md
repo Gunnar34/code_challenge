@@ -1,4 +1,4 @@
-# Kipsu Code Challenge
+# Code Challenge
 
 ## Instructions
 To run this program simply navigate to the directory in terminal.
